@@ -1,0 +1,10 @@
+[package]
+name = "memwatcher"
+version = "0.1.0"
+authors = ["Kristian Bendiksen <kristian.bendiksen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+procinfo = "0.4.2"
+#{ git = "https://github.com/zpp0/procinfo-rs" }
+page_size = "0.4.1"
